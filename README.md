@@ -1,4 +1,4 @@
-# Wind Mill Object Detection Model using YoloV8
+# Wind Turbine Object Detection Model using YoloV8
 
 Wind turbines are large structures that are often located in remote areas, which makes it challenging to monitor and maintain them. With the help of computer vision, it is possible to automate the detection and tracking of wind turbines in large datasets of aerial images, making maintenance and monitoring easier and more efficient.
 
